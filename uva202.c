@@ -37,6 +37,7 @@ int main(int argc, char *argv[]) {
     printf("please enter 2 number\n");
     return -1;
   }
+  // caculate quotient and reminder.
   for (int i=0;i<MAX_INT;i++){
     quo=numerator/denominator;
     reminder = numerator % denominator;
@@ -49,6 +50,7 @@ int main(int argc, char *argv[]) {
     }
   }
   cycle_count = end_pos - pos;
+  // print result
   quo = original_num/denominator;
   printf("%d/%d = %d.",original_num,denominator,quo);
   for (int i = 1;i<pos+1;i++){
