@@ -34,7 +34,7 @@ Dynamic Programming:
 Extra: NO
 
 Geometry:
-10136: NO
+10136: YES
 10065: NO
 303: NO
 Extra: NO
@@ -94,6 +94,7 @@ UVa 2 Points
 11331
 11330
 10026
+10136
 
 Kattis 1 Point
 allaboutthatbase
