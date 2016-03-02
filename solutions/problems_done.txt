@@ -35,7 +35,7 @@ Extra: NO
 
 Geometry:
 10136: YES
-10065: NO
+10065: YES
 303: NO
 Extra: NO
 
@@ -85,6 +85,7 @@ UVa 1 Point
 11419
 10327
 12492
+10065
 
 UVa 2 Points
 202
