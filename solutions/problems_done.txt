@@ -40,7 +40,7 @@ Geometry:
 Extra: NO
 
 Graphs:
-10034: NO
+10034: YES
 11765: NO
 10278: NO
 10672: NO
@@ -97,6 +97,7 @@ UVa 2 Points
 10026
 10136
 303
+10034
 
 Kattis 1 Point
 allaboutthatbase
