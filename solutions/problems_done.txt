@@ -3,7 +3,7 @@
 Arithmetic:
 202: YES
 11955: YES
-Extra: NO
+Extra: YES
 
 Backtracking:
 11195: YES
@@ -43,7 +43,7 @@ Graphs:
 10034: YES
 11765: NO
 10278: NO
-10672: NO
+10672: YES
 
 Number Theory:
 374: NO
@@ -86,6 +86,7 @@ UVa 1 Point
 10327
 12492
 10065
+10672
 
 UVa 2 Points
 202
