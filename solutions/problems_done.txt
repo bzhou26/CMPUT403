@@ -46,7 +46,7 @@ Graphs:
 10672: YES
 
 Number Theory:
-374: NO
+374: YES
 11327: NO
 Extra: NO
 
@@ -87,6 +87,7 @@ UVa 1 Point
 12492
 10065
 10672
+374
 
 UVa 2 Points
 202
