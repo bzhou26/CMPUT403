@@ -16,8 +16,8 @@
  * Solution Summary:
  *
  *   calculate the result of euler into a table oh[manx] before test.
- *   Based on the input k, do binary search to find the position in the table, the index is the numerator
- *   than enumerate gcd for number 1 to the numerator - 1 to find the fractions.
+ *   Based on the input k, do binary search to find the position in the table, the index is the denumerator
+ *   than enumerate gcd for number 1 to the denumerator - 1 to find the numerator.
  *
  * Used Resources:
  *
@@ -100,7 +100,7 @@ int gcd (int a, int b){
 
 int main()
 {
-    int pos, fractions;
+    int pos, numerator;
     long long n, index;
     init_oh();
     while (cin >> k, k) {
@@ -119,11 +119,11 @@ int main()
                 cont++;
             }
             if (cont == index) {
-                fractions = i;
+                numerator = i;
                 break;
             }
         }
-        cout << fractions << '/' << pos << endl;
+        cout << numerator << '/' << pos << endl;
     }
     return 0;
 }

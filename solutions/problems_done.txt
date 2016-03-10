@@ -24,7 +24,7 @@ Combinatorics:
 Extra: NO
 
 Data Structures:
-10608: NO
+10608: YES
 11136: NO
 Extra: NO
 
@@ -89,6 +89,7 @@ UVa 1 Point
 10672
 374
 11327
+10608
 
 UVa 2 Points
 202
