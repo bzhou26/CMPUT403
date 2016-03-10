@@ -47,7 +47,7 @@ Graphs:
 
 Number Theory:
 374: YES
-11327: NO
+11327: YES
 Extra: NO
 
 State Space Search:
@@ -88,6 +88,7 @@ UVa 1 Point
 10065
 10672
 374
+11327
 
 UVa 2 Points
 202
