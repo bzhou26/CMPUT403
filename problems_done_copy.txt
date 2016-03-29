@@ -25,7 +25,7 @@ Extra: NO
 
 Data Structures:
 10608: YES
-11136: YES
+11136: NO
 Extra: NO
 
 Dynamic Programming:
@@ -90,7 +90,6 @@ UVa 1 Point
 374
 11327
 10608
-11136
 
 UVa 2 Points
 202
@@ -103,7 +102,6 @@ UVa 2 Points
 10136
 303
 10034
-10125
 
 Kattis 1 Point
 allaboutthatbase
