@@ -58,8 +58,8 @@ Sorting:
 10327: YES
 
 String:
-11512: NO
-11837: NO
+11512: YES
+11837: YES
 
 # Enter the ids of the problems in the categories below, one per line.
 # Also include all required problems in the list below.
@@ -91,6 +91,8 @@ UVa 1 Point
 11327
 10608
 11136
+11512
+11837
 
 UVa 2 Points
 202
