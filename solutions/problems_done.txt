@@ -7,7 +7,7 @@ Extra: YES
 
 Backtracking:
 11195: YES
-11659: NO
+11659: YES
 Extra: NO
 
 Binary Search:
@@ -21,17 +21,17 @@ Bipartite Graphs:
 Combinatorics:
 11330: YES
 12492: YES
-Extra: NO
+Extra: YES (uva 10579)
 
 Data Structures:
 10608: YES
 11136: YES
-Extra: NO
+Extra: YES (uva 10050)
 
 Dynamic Programming:
-674: NO
-11584: NO
-Extra: NO
+674: YES
+11584: YES
+Extra: YES (uva 10684)
 
 Geometry:
 10136: YES
@@ -48,7 +48,7 @@ Graphs:
 Number Theory:
 374: YES
 11327: YES
-Extra: NO
+Extra: YES (uva 11827)
 
 State Space Search:
 11329: NO
@@ -93,6 +93,13 @@ UVa 1 Point
 11136
 11512
 11837
+674
+11584
+10684
+10579
+11827
+10050
+11659
 
 UVa 2 Points
 202
