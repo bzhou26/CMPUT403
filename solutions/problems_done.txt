@@ -8,7 +8,7 @@ Extra: YES
 Backtracking:
 11195: YES
 11659: YES
-Extra: NO
+Extra: YES (uva 11212)
 
 Binary Search:
 714: YES
@@ -37,12 +37,12 @@ Geometry:
 10136: YES
 10065: YES
 303: YES
-Extra: NO
+Extra: YES (uva 10927)
 
 Graphs:
 10034: YES
 11765: NO
-10278: NO
+10278: YES
 10672: YES
 
 Number Theory:
@@ -113,6 +113,9 @@ UVa 2 Points
 303
 10034
 10125
+11212
+10927
+10278
 
 Kattis 1 Point
 allaboutthatbase
