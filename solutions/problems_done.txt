@@ -3,7 +3,7 @@
 Arithmetic:
 202: YES
 11955: YES
-Extra: YES
+Extra: YES (uva 10077)
 
 Backtracking:
 11195: YES
@@ -100,6 +100,10 @@ UVa 1 Point
 11827
 10050
 11659
+10077
+10161
+10209
+10300
 
 UVa 2 Points
 202
@@ -116,6 +120,9 @@ UVa 2 Points
 11212
 10927
 10278
+701
+10257
+10014
 
 Kattis 1 Point
 allaboutthatbase
