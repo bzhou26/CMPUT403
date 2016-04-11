@@ -123,6 +123,7 @@ UVa 2 Points
 701
 10257
 10014
+10057
 
 Kattis 1 Point
 allaboutthatbase
